@@ -1,0 +1,9 @@
+Der Code und weitere Daten liegen auf folgendem Repo:
+https://github.com/schrfre/SVM_Fruits.git
+
+Der Datensatz ist zu finden auf kaggle unter folgendem Link:
+https://www.kaggle.com/datasets/moltean/fruits
+
+Beste Gruesse
+Frederik Schroeder, Alexander Diefenbacher, Lisa Zeilfelder
+
